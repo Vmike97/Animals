@@ -1,4 +1,4 @@
-//Interface for bird classes.
+//Interface for bird classes. 
 public interface Birds{
 	
 	public void wingSpan();

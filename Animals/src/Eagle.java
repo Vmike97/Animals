@@ -1,4 +1,4 @@
- 
+  
 public class Eagle extends Animals implements Birds {
 	public int wingSpan;
 	public String beakColour;

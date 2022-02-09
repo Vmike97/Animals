@@ -1,4 +1,4 @@
- 
+  
 public class Dog extends Animals{
 	
 //	Dog(String name, int age, int weight){

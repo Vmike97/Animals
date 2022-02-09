@@ -1,4 +1,4 @@
- 
+  
 public class Cat extends Animals{
 	public int sleepTime;
 
