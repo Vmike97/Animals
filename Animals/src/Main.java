@@ -1,7 +1,7 @@
 //This project focuses on parent child classes (Parent; Animals) (Child; Dog, Cat, Eagle) using "extends" 
 //on child classes. Also uses Bird interface on Eagle class using "implements" to ensure Eagle 
 //has desired Bird interface methods. 
-
+ 
 public class Main {
 
 	public static void main(String[] args) {
